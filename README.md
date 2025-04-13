@@ -1,4 +1,4 @@
-# Discord Mesai Botu Altyapısı
+# Discord V14 Mesai Botu Altyapısı
 
 Bu proje, Discord sunucularında kullanılan, buton tabanlı bir **mesai takip botunun** altyapısını içerir. Özelleştirilebilir ve kolayca geliştirilebilir yapısıyla Discord yönetiminde etkin bir mesai kontrol sistemi sunar.
 
